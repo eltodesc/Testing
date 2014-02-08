@@ -13,7 +13,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		Toast.makeText(this, "Cheers!", Toast.LENGTH_LONG).show();
+		Toast.makeText(this, "Salute!", Toast.LENGTH_LONG).show();
 	}
 
 	@Override
