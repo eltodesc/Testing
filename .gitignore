@@ -1,0 +1,4 @@
+*.class
+TestProject/gen/com/example/testproject/BuildConfig.java
+TestProject/gen/com/example/testproject/R.java
+TestProject/bin/jarlist.cache
